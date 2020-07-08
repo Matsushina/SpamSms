@@ -39,8 +39,7 @@ try:
   ____) | |_) | (_| | | | | | | (_| | |_\__ \ |_| |
  |_____/| .__/ \__,_|_| |_| |_|\__,_|\__|___/\__,_|
         | |                                        
-        |_| '''+W+'Creator : Matsushina : MamanClan')                                     
-      | |                                          
+        |_| '''+W+'Creator : Matsushina : MamanClan')                                                                             
       		  
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
