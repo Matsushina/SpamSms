@@ -14,7 +14,7 @@ Kode Ini Di Buat Untuk Menjahili Teman Kalian Yang Sedang Asik Mabar 🤣
 
 Inggris : 
 
-This Code Is Made To Judge Your Friends Who Are Playing The Game 🤣
+This Code Is Made To Troll Your Friends Who Are Playing The Game 🤣
 
 ```
 
